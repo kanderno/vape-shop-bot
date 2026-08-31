@@ -10,7 +10,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "PASTE_YOUR_BOT_TOKEN_HERE")
 # Telegram ID администратора(ов) — куда прилетают заявки на заказ,
 # и кто получает доступ к панели управления ассортиментом внутри бота
 ADMIN_CHAT_IDS = [
-    123456789,  # <-- замени на свой Telegram ID
+    1717846178,  # <-- замени на свой Telegram ID
 ]
 
 SHOP_NAME = "RazkiWaka 🍓"
